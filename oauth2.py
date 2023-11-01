@@ -10,7 +10,7 @@ class oauth2:
     client_secret = "D1rK38_cV65_gjw7r5x2Y8U3Sju_iIDz"
     redirect_uri = "" 
     scope = "identify%20guilds.join%20guilds"
-    discord_login_url = f"https://discord.com/api/oauth2/authorize?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope=identify%20guilds%20guilds.join"
+    discord_login_url = f"https://discord.com/api/oauth2/authorize?client_id=1169286804348870768&redirect_uri={redirect_uri}&response_type=code&scope=identify%20guilds%20guilds.join"
     discord_token_url = "https://discord.com/api/oauth2/token"
     discord_api_url = "https://discord.com/api"
     discord_token = ''
